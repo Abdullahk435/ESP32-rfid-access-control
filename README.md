@@ -5,8 +5,7 @@ An RFID-based access control system simulated using ESP32 and Wokwi. The system 
 
 ## Project Status
 
-Simulation prototype — tested features are documented below.
-Physical hardware implementation and validation are future work.
+Wokwi simulation prototype. Physical hardware implementation and validation are planned as future work.
 
 ## Features
 
